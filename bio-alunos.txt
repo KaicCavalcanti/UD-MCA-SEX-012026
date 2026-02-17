@@ -5,3 +5,13 @@ Semestre: 5°
 Bairro: São Mateus 
 Trabalha: Sim  
 Objetivo: Conseguir estágio em TI e evoluir como desenvolvedor
+
+-------
+
+Nome: Gustavo Pereira Soggia
+RA: 824147271
+Curso: Engenharia de Software
+Semestre: 5°
+Bairro: Guaianases
+Trabalha: Sim
+Objetivo: Me qualificar na área de TI e adentrar em uma multi-nacional.
